@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[59385,["/lemonie-archive-site/_next/static/chunks/2562j8iatg02_.js","/lemonie-archive-site/_next/static/chunks/2zp5z71wuczix.js","/lemonie-archive-site/_next/static/chunks/15d4zgxe2q4ss.js"],"default"]
+3:I[4675,["/lemonie-archive-site/_next/static/chunks/2562j8iatg02_.js","/lemonie-archive-site/_next/static/chunks/2zp5z71wuczix.js","/lemonie-archive-site/_next/static/chunks/15d4zgxe2q4ss.js"],"default"]
+4:[]
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"XPJom8-GECF9QsUWrL8kk"}
