@@ -55,9 +55,60 @@
       "platform": "米画师",
       "url": "",
       "note": ""
+    },
+    {
+      "id": "9a89658b-3f96-4254-8171-c163582d78e3",
+      "name": "赛博玫瑰种植园",
+      "platform": "画加",
+      "url": "",
+      "note": ""
     }
   ],
   "artworks": [
+    {
+      "id": "39c05635-162c-4523-be4c-8516e52ccc36",
+      "title": "2026新年快乐！",
+      "category": "角色立绘",
+      "artistId": "9a89658b-3f96-4254-8171-c163582d78e3",
+      "characterIds": [
+        "lemonie"
+      ],
+      "completedAt": "2026-02-16",
+      "price": 0,
+      "priceVisible": false,
+      "watermark": true,
+      "featured": false,
+      "status": "published",
+      "tags": [
+        "插图"
+      ],
+      "note": "非常惊喜的新年礼物……永远喜欢赛博玫瑰种植园老师！",
+      "previewRef": "/archive-assets/2026-07-15/bd3b04ef-66e6-4852-bbcd-c5bafeda6343-微信图片_20260715084648-preview.webp",
+      "originalSize": 0,
+      "previewSize": 119572,
+      "imagePosition": "center center",
+      "imageCrop": {
+        "x": 0.05288326300984533,
+        "y": 0,
+        "width": 0.8888888888888888,
+        "height": 1
+      },
+      "images": [
+        {
+          "id": "4912d566-b308-44b9-b9db-c8e9efb2c2dc",
+          "previewRef": "/archive-assets/2026-07-15/bd3b04ef-66e6-4852-bbcd-c5bafeda6343-微信图片_20260715084648-preview.webp",
+          "originalSize": 0,
+          "previewSize": 119572,
+          "imagePosition": "center center",
+          "imageCrop": {
+            "x": 0.05288326300984533,
+            "y": 0,
+            "width": 0.8888888888888888,
+            "height": 1
+          }
+        }
+      ]
+    },
     {
       "id": "149ec209-ce8c-4af4-9a2a-e196f3c23b93",
       "title": "玻璃眼怼脸大头照",
