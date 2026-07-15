@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[72271,["/lemonie-archive-site/_next/static/chunks/3j783flp2kwb6.js","/lemonie-archive-site/_next/static/chunks/2zp5z71wuczix.js","/lemonie-archive-site/_next/static/chunks/3i3q5dvmkqtgy.js"],"ArtworkDetailClient"]
+3:I[50129,["/lemonie-archive-site/_next/static/chunks/3j783flp2kwb6.js","/lemonie-archive-site/_next/static/chunks/2zp5z71wuczix.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"id":"1017326d-737b-449c-8dab-fc6b595ba17b"}],[["$","script","script-0",{"src":"/lemonie-archive-site/_next/static/chunks/3i3q5dvmkqtgy.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"bkjgXBmVdCKTQqXzBuFJM"}
+5:null
