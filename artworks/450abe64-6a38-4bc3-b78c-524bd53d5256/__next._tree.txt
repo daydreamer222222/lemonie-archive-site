@@ -1,0 +1,2 @@
+:HL["/lemonie-archive-site/_next/static/chunks/1qw_5m3fc-al5.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"artworks","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"450abe64-6a38-4bc3-b78c-524bd53d5256","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Z2mwDuBLfx8ShjIP4MuS5"}

@@ -45,9 +45,133 @@
       "platform": "画加",
       "url": "",
       "note": ""
+    },
+    {
+      "id": "78334025-2b1b-4d3c-a3ef-31c1e252c521",
+      "name": "無定",
+      "platform": "画加",
+      "url": "",
+      "note": ""
+    },
+    {
+      "id": "296e3186-3830-49ef-85ee-69440b42bf35",
+      "name": "满天月牙",
+      "platform": "米画师",
+      "url": "",
+      "note": ""
     }
   ],
   "artworks": [
+    {
+      "id": "1e029b15-4e24-4d34-b00c-fae9f2aeee52",
+      "title": "踏青gogo！（看似草立，实则服设）",
+      "category": "服设",
+      "artistId": "296e3186-3830-49ef-85ee-69440b42bf35",
+      "characterIds": [
+        "lemonie"
+      ],
+      "completedAt": "2026-07-08",
+      "price": 0,
+      "priceVisible": false,
+      "watermark": true,
+      "featured": false,
+      "status": "published",
+      "tags": [],
+      "note": "",
+      "previewRef": "/archive-assets/2026-07-15/ff1a6fb6-f499-403f-a2bd-378de3c64219-微信图片_20260715212610-preview.webp",
+      "originalSize": 0,
+      "previewSize": 68230,
+      "imagePosition": "center center",
+      "imageCrop": {
+        "x": 0,
+        "y": 0,
+        "width": 1,
+        "height": 0.5625
+      },
+      "images": [
+        {
+          "id": "5332ff9f-d59e-477e-b944-61a9984acfbb",
+          "previewRef": "/archive-assets/2026-07-15/ff1a6fb6-f499-403f-a2bd-378de3c64219-微信图片_20260715212610-preview.webp",
+          "originalSize": 0,
+          "previewSize": 68230,
+          "imagePosition": "center center",
+          "imageCrop": {
+            "x": 0,
+            "y": 0,
+            "width": 1,
+            "height": 0.5625
+          }
+        },
+        {
+          "id": "a016cba9-e1e8-4dda-83bb-e7d4982bebdb",
+          "previewRef": "/archive-assets/2026-07-15/9295847e-2ed6-4f69-907b-c79cbf87992b-微信图片_20260715212600-preview.webp",
+          "originalSize": 0,
+          "previewSize": 81688,
+          "imagePosition": "center center",
+          "imageCrop": {
+            "x": 0,
+            "y": 0,
+            "width": 1,
+            "height": 0.5625
+          }
+        },
+        {
+          "id": "82513df8-b35d-4698-9b92-f659205d646d",
+          "previewRef": "/archive-assets/2026-07-15/b8e8bc24-c021-49f4-b488-272caa735a72-微信图片_20260715212550-preview.webp",
+          "originalSize": 0,
+          "previewSize": 119984,
+          "imagePosition": "center center",
+          "imageCrop": {
+            "x": 0,
+            "y": 0,
+            "width": 1,
+            "height": 0.5625
+          }
+        }
+      ]
+    },
+    {
+      "id": "450abe64-6a38-4bc3-b78c-524bd53d5256",
+      "title": "柠檬族大祭司",
+      "category": "服设",
+      "artistId": "78334025-2b1b-4d3c-a3ef-31c1e252c521",
+      "characterIds": [
+        "lemonie"
+      ],
+      "completedAt": "2025-07-11",
+      "price": 0,
+      "priceVisible": false,
+      "watermark": true,
+      "featured": false,
+      "status": "published",
+      "tags": [],
+      "note": "",
+      "previewRef": "/archive-assets/2026-07-15/e3873f78-c705-4b7a-9658-faaba3451409-32-3-_1784100917795-preview.webp",
+      "originalSize": 0,
+      "previewSize": 137772,
+      "imagePosition": "center center",
+      "imageCrop": {
+        "x": 0,
+        "y": 0.03378142458100557,
+        "width": 1,
+        "height": 0.5625
+      },
+      "images": [
+        {
+          "id": "09545801-e968-4452-8dbd-55167bd61db5",
+          "previewRef": "/archive-assets/2026-07-15/e3873f78-c705-4b7a-9658-faaba3451409-32-3-_1784100917795-preview.webp",
+          "originalSize": 0,
+          "previewSize": 137772,
+          "imagePosition": "center center",
+          "imageCrop": {
+            "x": 0,
+            "y": 0.03378142458100557,
+            "width": 1,
+            "height": 0.5625
+          }
+        }
+      ]
+    },
     {
       "id": "d29bfae8-a05b-4c5b-8b59-f06029c1497a",
       "title": "活力小青柠！",
