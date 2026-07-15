@@ -5,7 +5,7 @@
     "tagline": "把每一页喜欢，都认真收好。",
     "introduction": "这里收录角色档案、委托稿件与故事片段。当前内容为建站示例，可以在管理后台逐项替换。",
     "footerNote": "一册仍在生长的私人角色档案。",
-    "heroBackgroundRef": "/assets/lemonie-scrapbook-hero.png",
+    "heroBackgroundRef": "/archive-assets/2026-07-15/d9ffb9a7-1efe-4b35-b3a8-6e4ffbe87211-微信图片_20260715084648.png",
     "watermarkText": "Lemonie Archive",
     "defaultWatermark": false,
     "watermarkAssets": [],
@@ -80,7 +80,16 @@
       "previewRef": "/assets/lemonie-scrapbook-hero.png",
       "originalSize": 0,
       "previewSize": 0,
-      "imagePosition": "18% 48%"
+      "imagePosition": "18% 48%",
+      "images": [
+        {
+          "id": "sample-1-image-1",
+          "previewRef": "/assets/lemonie-scrapbook-hero.png",
+          "originalSize": 0,
+          "previewSize": 0,
+          "imagePosition": "18% 48%"
+        }
+      ]
     },
     {
       "id": "sample-2",
@@ -104,7 +113,16 @@
       "previewRef": "/assets/lemonie-scrapbook-hero.png",
       "originalSize": 0,
       "previewSize": 0,
-      "imagePosition": "82% 44%"
+      "imagePosition": "82% 44%",
+      "images": [
+        {
+          "id": "sample-2-image-1",
+          "previewRef": "/assets/lemonie-scrapbook-hero.png",
+          "originalSize": 0,
+          "previewSize": 0,
+          "imagePosition": "82% 44%"
+        }
+      ]
     },
     {
       "id": "sample-3",
@@ -128,7 +146,16 @@
       "previewRef": "/assets/lemonie-scrapbook-hero.png",
       "originalSize": 0,
       "previewSize": 0,
-      "imagePosition": "50% 90%"
+      "imagePosition": "50% 90%",
+      "images": [
+        {
+          "id": "sample-3-image-1",
+          "previewRef": "/assets/lemonie-scrapbook-hero.png",
+          "originalSize": 0,
+          "previewSize": 0,
+          "imagePosition": "50% 90%"
+        }
+      ]
     }
   ],
   "stories": [
