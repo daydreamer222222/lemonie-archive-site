@@ -51,109 +51,67 @@
   "artists": [
     {
       "id": "artist-placeholder",
-      "name": "示例画师",
-      "platform": "主页平台",
+      "name": "黑川南野",
+      "platform": "米画师",
       "url": "",
-      "note": "上传真实稿件后，可在后台补充画师主页与备注。"
+      "note": ""
     }
   ],
   "artworks": [
     {
-      "id": "sample-1",
-      "title": "等待放入的第一张稿件",
-      "category": "角色立绘",
+      "id": "149ec209-ce8c-4af4-9a2a-e196f3c23b93",
+      "title": "玻璃眼怼脸大头照",
+      "category": "头像",
       "artistId": "artist-placeholder",
       "characterIds": [
         "lemonie"
       ],
-      "completedAt": "2026-07-13",
+      "completedAt": "2026-06-09",
       "price": 0,
       "priceVisible": false,
-      "watermark": false,
-      "featured": true,
-      "status": "published",
-      "tags": [
-        "示例",
-        "立绘"
-      ],
-      "note": "这是占位卡片。后台上传图片后，公开画廊会自动更新。",
-      "previewRef": "/assets/lemonie-scrapbook-hero.png",
-      "originalSize": 0,
-      "previewSize": 0,
-      "imagePosition": "18% 48%",
-      "images": [
-        {
-          "id": "sample-1-image-1",
-          "previewRef": "/assets/lemonie-scrapbook-hero.png",
-          "originalSize": 0,
-          "previewSize": 0,
-          "imagePosition": "18% 48%"
-        }
-      ]
-    },
-    {
-      "id": "sample-2",
-      "title": "青柠色的备忘页",
-      "category": "氛围稿",
-      "artistId": "artist-placeholder",
-      "characterIds": [
-        "lemonie"
-      ],
-      "completedAt": "2026-07-12",
-      "price": 0,
-      "priceVisible": false,
-      "watermark": false,
-      "featured": true,
-      "status": "published",
-      "tags": [
-        "示例",
-        "氛围"
-      ],
-      "note": "示例作品会在你添加真实稿件后自动让位。",
-      "previewRef": "/assets/lemonie-scrapbook-hero.png",
-      "originalSize": 0,
-      "previewSize": 0,
-      "imagePosition": "82% 44%",
-      "images": [
-        {
-          "id": "sample-2-image-1",
-          "previewRef": "/assets/lemonie-scrapbook-hero.png",
-          "originalSize": 0,
-          "previewSize": 0,
-          "imagePosition": "82% 44%"
-        }
-      ]
-    },
-    {
-      "id": "sample-3",
-      "title": "铃兰旁的一页故事",
-      "category": "插图",
-      "artistId": "artist-placeholder",
-      "characterIds": [
-        "lemonie"
-      ],
-      "completedAt": "2026-07-11",
-      "price": 0,
-      "priceVisible": false,
-      "watermark": false,
+      "watermark": true,
       "featured": false,
       "status": "published",
       "tags": [
-        "示例",
-        "插图"
+        "头像"
       ],
-      "note": "示例图片来自本站默认手账底图。",
-      "previewRef": "/assets/lemonie-scrapbook-hero.png",
+      "note": "",
+      "previewRef": "/archive-assets/2026-07-15/548a10a4-5167-44c0-8f66-e70ee2f8f18e-微信图片_20260715090312-preview.webp",
       "originalSize": 0,
-      "previewSize": 0,
-      "imagePosition": "50% 90%",
+      "previewSize": 42412,
+      "imagePosition": "center center",
+      "imageCrop": {
+        "x": 0,
+        "y": 0.25,
+        "width": 1,
+        "height": 0.75
+      },
       "images": [
         {
-          "id": "sample-3-image-1",
-          "previewRef": "/assets/lemonie-scrapbook-hero.png",
+          "id": "cbaf39e2-7251-47bc-8f24-a375f0604709",
+          "previewRef": "/archive-assets/2026-07-15/548a10a4-5167-44c0-8f66-e70ee2f8f18e-微信图片_20260715090312-preview.webp",
           "originalSize": 0,
-          "previewSize": 0,
-          "imagePosition": "50% 90%"
+          "previewSize": 42412,
+          "imagePosition": "center center",
+          "imageCrop": {
+            "x": 0,
+            "y": 0.25,
+            "width": 1,
+            "height": 0.75
+          }
+        },
+        {
+          "id": "bf5ed572-f8a9-44a7-9a9c-56398c474739",
+          "previewRef": "/archive-assets/2026-07-15/7ff71622-cfce-4ed2-9ed0-09454de86aec-微信图片_20260715090302-preview.webp",
+          "originalSize": 0,
+          "previewSize": 33642,
+          "imagePosition": "center center",
+          "imageCrop": {
+            "x": 0,
+            "y": 0.25,
+            "width": 1,
+            "height": 0.75
+          }
         }
       ]
     }
